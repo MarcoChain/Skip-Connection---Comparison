@@ -2,7 +2,7 @@
 
 ## Results
 
-| **Type**                                | **MSE on test set  ** | **Input_window_size** |
+| **Type**                                | **MSE on test set** | **Input_window_size** |
 |-----------------------------------------|-----------------------|-----------------------|
 | Additional Skip Connection              |  2.4246162350662623   | 100                   |
 | Additional Skip Connection              | 2.282710276204402     | 30                    |
